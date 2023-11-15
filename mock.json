@@ -1,0 +1,40 @@
+{
+    "personnes": [
+        {
+            "id": 1,
+            "nom": "Leclair",
+            "prenom" : "Emmanuel",
+            "dateDeNaissance": "1980-05-11T08:00:00", 
+            "age": 43,
+            "vivant": true,
+            "photo": "https://ca.slack-edge.com/T3DDLQ09F-U3U3CFRGF-cdd45e365001-512"
+        },
+        {
+            "id": 2,
+            "nom": "Schwarzenegger",
+            "prenom" : "Arnold",
+            "dateDeNaissance": "1947-07-30T10:00:00", 
+            "age": 76,
+            "vivant": true,
+            "photo": "https://i0.wp.com/dopagedemondenard.com/wp-content/uploads/2016/01/73a3de70c14f3b788de261282d8b251a-600x813x1.jpg?ssl=1"
+          },
+          {
+            "id": 3,
+            "nom": "Bonaparte",
+            "prenom" : "Napoléon",
+            "dateDeNaissance": "1769-08-15T12:00:00", 
+            "age": 51,
+            "vivant": false,
+            "photo": "https://static.nationalgeographic.fr/files/styles/image_3200/public/760px-napoleon-david-2.jpg?w=710&h=839"
+          },
+          {
+            "id": 4,
+            "nom": "De Gaulle",
+            "prenom" : "Charles",
+            "dateDeNaissance": "1890-11-22T14:00:00", 
+            "age": 79   ,
+            "vivant": false,
+            "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/De_Gaulle_1961_%28cropped%29.jpg/220px-De_Gaulle_1961_%28cropped%29.jpg"
+          }          
+    ]
+}
